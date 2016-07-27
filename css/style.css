@@ -22,12 +22,11 @@ nav ul li a {
 	margin-right: 30px;
 	margin-top: 30px;
 }
-.episodes{
-	width: 70%;
-	margin: auto;
-}
 .episode >img{
 	width: 80px;
+}
+.row .cuadricula{
+	padding-left: 0px;
 }
 .fondoep{
 	background-color: #EEEEEE;
