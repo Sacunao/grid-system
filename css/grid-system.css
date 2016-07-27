@@ -25,6 +25,7 @@
 .row {
 	margin-left: -14px;
 	margin-right: -14px;
+	padding: 20px;
 }
 
 .row:before, .row:after{
